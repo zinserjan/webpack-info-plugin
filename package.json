@@ -1,6 +1,6 @@
 {
   "name": "webpack-info-plugin",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Display webpack build status and stats",
   "main": "lib/WebpackInfoPlugin.js",
   "files": [
