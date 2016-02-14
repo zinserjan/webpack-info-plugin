@@ -1,4 +1,4 @@
-# webpack-info-plugin
+# webpack-info-plugin [![npm package][npm-badge]][npm]
 
 simple plugin to show webpack state & stats like [webpack-dev-middleware]
 
@@ -62,3 +62,6 @@ webpack: bundle is now VALID.
 
 
 [webpack-dev-middleware]: https://github.com/webpack/webpack-dev-middleware
+
+[npm-badge]: https://img.shields.io/npm/v/webpack-info-plugin.svg?style=flat-square
+[npm]: https://www.npmjs.com/package/webpack-info-plugin
